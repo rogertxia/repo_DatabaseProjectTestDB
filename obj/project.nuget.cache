@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "flozJlhNXefW8625qFuU3bGO+gnbwA+tE/twFDygIrs0liOx5Tp2W/S7lIWsF1E+dLw1+JmQ+fp0oImNziKCeA==",
+  "success": true,
+  "projectFilePath": "c:\\gitdemo\\DatabaseProjectTestDB\\DatabaseProjectTestDB.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roger\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Roger\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

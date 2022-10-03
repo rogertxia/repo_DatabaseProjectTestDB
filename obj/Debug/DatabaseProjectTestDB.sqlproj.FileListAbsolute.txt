@@ -1,0 +1,10 @@
+c:\gitdemo\DatabaseProjectTestDB\bin\Debug\DatabaseProjectTestDB.dacpac
+c:\gitdemo\DatabaseProjectTestDB\bin\Debug\DatabaseProjectTestDB.dll
+c:\gitdemo\DatabaseProjectTestDB\bin\Debug\DatabaseProjectTestDB.pdb
+c:\gitdemo\DatabaseProjectTestDB\obj\Debug\DatabaseProjectTestDB.sqlproj.AssemblyReference.cache
+c:\gitdemo\DatabaseProjectTestDB\obj\Debug\Model.xml
+c:\gitdemo\DatabaseProjectTestDB\obj\Debug\refactor.xml
+c:\gitdemo\DatabaseProjectTestDB\obj\Debug\postdeploy.sql
+c:\gitdemo\DatabaseProjectTestDB\obj\Debug\predeploy.sql
+c:\gitdemo\DatabaseProjectTestDB\obj\Debug\DatabaseProjectTestDB.dll
+c:\gitdemo\DatabaseProjectTestDB\obj\Debug\DatabaseProjectTestDB.pdb

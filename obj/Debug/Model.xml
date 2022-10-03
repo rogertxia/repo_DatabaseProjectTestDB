@@ -343,10 +343,14 @@ BEGIN
 
 	-- This line was commented out on 20221003
 	SELECT 'proc 2 version 1 created on 20220926 as well'
+
+	--SELECT 'proc 2 version 1 created on 20220926 as well'
 	
 	SELECT 'proc 2 version 2 created on 20221003'
 
 	select 'proc 2 is also being updated together with proc 1'
+
+	select 'I cant remember which change it is for......'
 END]]></Value>
 			</Property>
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -357,7 +361,7 @@ END]]></Value>
 			</Relationship>
 			<Annotation Type="SysCommentsObjectAnnotation">
 				<Property Name="CreateOffset" Value="194" />
-				<Property Name="Length" Value="623" />
+				<Property Name="Length" Value="741" />
 				<Property Name="StartLine" Value="1" />
 				<Property Name="StartColumn" Value="1" />
 				<Property Name="HeaderContents" Value="-- =============================================&#xD;&#xA;-- Author:&#x9;&#x9;&lt;Author,,Name&gt;&#xD;&#xA;-- Create date: &lt;Create Date,,&gt;&#xD;&#xA;-- Description:&#x9;&lt;Description,,&gt;&#xD;&#xA;-- =============================================&#xD;&#xA;CREATE PROCEDURE [dbo].[proc2]&#xD;&#xA;AS" />

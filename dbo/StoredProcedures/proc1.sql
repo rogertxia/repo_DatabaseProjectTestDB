@@ -15,6 +15,8 @@ BEGIN
 	SELECT 'version 1 created on 20221003'
 
 	select * from PersonPhone
+
+	select 'proc1 was updated again.'
 END
 
 GO

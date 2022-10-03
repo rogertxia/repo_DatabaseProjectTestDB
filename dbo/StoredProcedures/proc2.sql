@@ -15,6 +15,8 @@ BEGIN
 	-- This line was commented out on 20221003
 	SELECT 'proc 2 version 1 created on 20220926 as well'
 
+	--SELECT 'proc 2 version 1 created on 20220926 as well'
+	
 	SELECT 'proc 2 version 2 created on 20221003'
 
 	select 'proc 2 is also being updated together with proc 1'
